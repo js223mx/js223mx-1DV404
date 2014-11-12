@@ -1,0 +1,6 @@
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\RaknaSiffror\bin\Debug\RaknaSiffror.exe.config
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\RaknaSiffror\bin\Debug\RaknaSiffror.exe
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\RaknaSiffror\bin\Debug\RaknaSiffror.pdb
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\RaknaSiffror\obj\Debug\RaknaSiffror.csprojResolveAssemblyReference.cache
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\RaknaSiffror\obj\Debug\RaknaSiffror.exe
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\RaknaSiffror\obj\Debug\RaknaSiffror.pdb
