@@ -1,0 +1,6 @@
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\RaknaA\bin\Debug\RaknaA.exe.config
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\RaknaA\bin\Debug\RaknaA.exe
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\RaknaA\bin\Debug\RaknaA.pdb
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\RaknaA\obj\Debug\RaknaA.csprojResolveAssemblyReference.cache
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\RaknaA\obj\Debug\RaknaA.exe
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\RaknaA\obj\Debug\RaknaA.pdb
