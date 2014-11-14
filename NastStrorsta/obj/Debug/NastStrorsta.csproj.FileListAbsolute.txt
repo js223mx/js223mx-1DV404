@@ -1,0 +1,6 @@
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\NastStrorsta\bin\Debug\NastStrorsta.exe.config
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\NastStrorsta\bin\Debug\NastStrorsta.exe
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\NastStrorsta\bin\Debug\NastStrorsta.pdb
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\NastStrorsta\obj\Debug\NastStrorsta.csprojResolveAssemblyReference.cache
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\NastStrorsta\obj\Debug\NastStrorsta.exe
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\NastStrorsta\obj\Debug\NastStrorsta.pdb
