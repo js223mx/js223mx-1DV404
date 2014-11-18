@@ -15,50 +15,45 @@ namespace NastStrorsta
             //int.TryParse(input, out value);
             //int number = 0;
             //int maxNumber = 0;
-            int inputValue = 0;
-            int maxValue = 0;
-            int secMaxValue = 0;
-            int tempvar = 0;
- 
-            int input;
-           // Console.Write("Mata in 10 heltal:");
-            //int.TryParse(input, out inputValue);
+            //int tempvar;
+            int maxValue;
+            int secMaxValue;
+            int input = 0;
+
+            maxValue = input;
+            secMaxValue = input;
+
+            Console.Write("Mata in 10 heltal: ");
+            //läser in numren från tangentbordet
+            input = int.Parse(Console.ReadLine());
+
+            
 
             for (int i = 0; i < 10; i++) 
             {
-                Console.Write("Mata in {0} heltal: ", i + 1);
-                //läser in numren från tangentbordet
-                input = int.Parse(Console.ReadLine());
+               
+                //if (i == 0) { 
 
-                if (i == 0) 
+                if (input > maxValue) 
                 {
-                    maxValue = tempvar;
+                    secMaxValue = maxValue;
+                    maxValue = input;
                         //i++;
                         //secMaxValue= maxValue;
                         //maxValue =inputValue;
                 }
-                else if (i == 1) 
+                else if (input > secMaxValue) 
                 {
-                    if (maxValue < tempvar) 
-                    {
+                    secMaxValue = input;
+                }
+                else if (secMaxValue > maxValue) 
+                {
+                    secMaxValue = maxValue;
+                }
 
-                    }
-                    else 
-                    {
-                        secMaxValue = tempvar;
-                    }
-                    
-                  
-                }
-                else 
-                {
-                    if (tempvar > secMaxValue && tempvar < maxValue) 
-                    {
-                        secMaxValue = tempvar;
-                    }
-                }
+                //}
             }
-            
+                       
         }
 
     }
