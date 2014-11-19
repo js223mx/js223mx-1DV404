@@ -10,12 +10,7 @@ namespace NastStrorsta
     {
         static void Main(string[] args)
         {
-            //int value;           
-            //string input = Console.ReadLine();
-            //int.TryParse(input, out value);
-            //int number = 0;
-            //int maxNumber = 0;
-            //int tempvar;
+           
             int maxValue;
             int secMaxValue;
             int input = 0;
@@ -23,17 +18,13 @@ namespace NastStrorsta
             maxValue = input;
             secMaxValue = input;
 
-            Console.Write("Mata in 10 heltal: ");
-            //läser in numren från tangentbordet
-            input = int.Parse(Console.ReadLine());
-
+            Console.WriteLine("Mata in 10 heltal: ");
             
 
             for (int i = 0; i < 10; i++) 
             {
-               
-                //if (i == 0) { 
-
+                //läser in numren från tangentbordet
+                input = int.Parse(Console.ReadLine());
                 if (input > maxValue) 
                 {
                     secMaxValue = maxValue;
@@ -51,8 +42,9 @@ namespace NastStrorsta
                     secMaxValue = maxValue;
                 }
 
-                //}
+                
             }
+            Console.WriteLine("Det näst största talet är {0}.", secMaxValue);
                        
         }
 
