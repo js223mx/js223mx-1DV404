@@ -1,0 +1,6 @@
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\Palindrom\bin\Debug\Palindrom.exe.config
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\Palindrom\bin\Debug\Palindrom.exe
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\Palindrom\bin\Debug\Palindrom.pdb
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\Palindrom\obj\Debug\Palindrom.csprojResolveAssemblyReference.cache
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\Palindrom\obj\Debug\Palindrom.exe
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\Palindrom\obj\Debug\Palindrom.pdb
