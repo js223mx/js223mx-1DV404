@@ -1,0 +1,6 @@
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\Fraction\bin\Debug\Fraction.exe.config
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\Fraction\bin\Debug\Fraction.exe
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\Fraction\bin\Debug\Fraction.pdb
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\Fraction\obj\Debug\Fraction.csprojResolveAssemblyReference.cache
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\Fraction\obj\Debug\Fraction.exe
+P:\Iterativ mjukvaruutveckling\js223mx-1DV404\Fraction\obj\Debug\Fraction.pdb
