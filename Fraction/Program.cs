@@ -47,7 +47,7 @@ namespace Fraction
             Console.ResetColor();
             Fraction f = new Fraction(1, 2);
             Fraction g = new Fraction(2, 4);
-            Console.WriteLine(f.isEqualTo(g));
+            Console.WriteLine(g.isEqualTo(f));
 
             //Test 6 kollar om nämnaren är en nolla och kastar i sådana fall ett undantag
             Console.BackgroundColor = ConsoleColor.DarkGreen;

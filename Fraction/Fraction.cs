@@ -10,8 +10,7 @@ namespace Fraction
     {
         private int _numerator;
         private int _denominator;
-        //private int number = 0;
-
+        
         public int getNumerator
         {
             get{return _numerator; }
@@ -19,7 +18,6 @@ namespace Fraction
             {
                 _numerator = value;
             }
-
         }
         public int getDenomirator 
         {
@@ -33,8 +31,7 @@ namespace Fraction
                     
                 }
                 _denominator = value;
-            }
-            
+            }            
         }
         public Fraction(int Numerator, int Denominator) 
         {
@@ -66,21 +63,11 @@ namespace Fraction
             {
                 return false;
             }
-
         }
-        public bool isEqualTo( Fraction left, Fraction right)
+        //kollar det ena bråktalet är lika mycket värt som det andra genom att konvertera dem till decimaltal
+        public bool isEqualTo(Fraction left)
         {
-            return (decimal)left.getNumerator * right.getDenomirator == (decimal)right.getNumerator * right.getDenomirator;
-            //if (left.getDenomirator == right.getDenomirator && left.getNumerator == right.getNumerator)
-            //if (this.getDenomirator == left.getDenomirator && this.getNumerator == left.getNumerator)
-            //{
-              //  return true;
-            //}
-            //else 
-            //{
-              //  return false;
-            //}
-        
+            return (decimal)this.getNumerator / this.getDenomirator == (decimal)left.getNumerator / left.getDenomirator;
         }
         public override string ToString()
         {
