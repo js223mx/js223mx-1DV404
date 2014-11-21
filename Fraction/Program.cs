@@ -42,6 +42,7 @@ namespace Fraction
             Fraction e = new Fraction(-7, -2);
             Console.WriteLine(e.isNegative());
 
+            //Test 5 Kollar om två bråk har samma värde
             Console.BackgroundColor = ConsoleColor.DarkGreen;
             Console.WriteLine("\n--------Bråk test 5--------\n");
             Console.ResetColor();
