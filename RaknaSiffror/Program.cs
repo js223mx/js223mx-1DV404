@@ -42,7 +42,8 @@ namespace RaknaSiffror
                 }
 
                 Console.WriteLine("Nollor: {0} Udda: {1} Jämna: {2}", zerocount, unevencount, evencount);
-
+                Console.WriteLine("Tryck in valfri tangent för att avsluta.");
+                Console.ReadLine();
         }
     }
 }
