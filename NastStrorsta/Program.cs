@@ -45,7 +45,8 @@ namespace NastStrorsta
                 
             }
             Console.WriteLine("Det näst största talet är {0}.", secMaxValue);
-                       
+            Console.WriteLine("Tryck in valfri tangent för att avsluta.");
+            Console.ReadLine();           
         }
 
     }
