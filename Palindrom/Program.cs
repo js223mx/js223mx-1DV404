@@ -28,6 +28,8 @@ namespace Palindrom
                 Console.WriteLine("Fel! {0} är inte ett palindrom.", input);
                 Console.ResetColor();
             }
+            Console.WriteLine("Tryck in valfri tangent för att avsluta.");
+            Console.ReadLine();
         }
     }
 }
