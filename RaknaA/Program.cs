@@ -34,6 +34,9 @@ namespace RaknaA
             }
             Console.WriteLine("Antal a: " + noa);
             Console.WriteLine("Antal A: " + noA);
+
+            Console.WriteLine("Tryck in valfri tangent för att avsluta.");
+            Console.ReadLine();
             
             //System.Console.WriteLine("Antal a: {0} Antal A: {1}",noa, noA);
 
